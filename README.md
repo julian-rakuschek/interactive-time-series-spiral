@@ -2,7 +2,7 @@
 
 # Interactive Time Series Spiral
 
-[Live Demo](spirale.rakuschek.at)
+[Live Demo](https://spirale.rakuschek.at)
 
 <img alt="Teaser" src="./teaser.png" align="center" width="600" />
 
